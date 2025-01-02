@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Screenly/static/css/main.9a4eb742.css",
+    "main.js": "/Screenly/static/js/main.914ea9ce.js",
+    "index.html": "/Screenly/index.html",
+    "main.9a4eb742.css.map": "/Screenly/static/css/main.9a4eb742.css.map",
+    "main.914ea9ce.js.map": "/Screenly/static/js/main.914ea9ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a4eb742.css",
+    "static/js/main.914ea9ce.js"
+  ]
+}
